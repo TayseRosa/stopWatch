@@ -1,6 +1,6 @@
 <h1 align="center">Stop Watch</h1>
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](./portfolio/stopWhatch.webm)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](./images/stopWhatch.webm)
 
 
 <!--
