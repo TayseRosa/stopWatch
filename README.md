@@ -1,7 +1,7 @@
 <h1 align="center">Stop Watch</h1>
 
 
-<div data-snack-id="@tayse_rosa/stopwatch" data-snack-platform="android" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212121;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%">
+<div data-snack-id="@tayse_rosa/stopwatch" data-snack-platform="android" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212121;border:1px solid var(--color-border);border-radius:5px;height:100px;width:50%">
 
 ![StopWatch](https://raw.githubusercontent.com/TayseRosa/stopWatch/main/images/stopWhatch.gif)
 
