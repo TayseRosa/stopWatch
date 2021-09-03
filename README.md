@@ -1,16 +1,12 @@
 <h1 align="center">Stop Watch</h1>
 
-[![Watch the video]()](./images/stopWhatch.gif)
 
+<div data-snack-id="@tayse_rosa/stopwatch" data-snack-platform="android" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212121;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%">
 
-<!--
-[![switch.png](https://i.postimg.cc/2jqspL07/switch.png)](https://snack.expo.io/@tayse_rosa/switch---react-native)
--->
+![StopWatch](https://raw.githubusercontent.com/TayseRosa/stopWatch/main/images/stopWhatch.gif)
 
-
-<!--
-<script async src="https://snack.expo.io/embed.js"> </script>
--->
+</div>
+<script async src="https://snack.expo.dev/embed.js"></script>
 
 # Índex
 - [Índex](#índex)
