@@ -1,5 +1,8 @@
 <h1 align="center">Stop Watch</h1>
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](./portfolio/stopWhatch.webm)
+
+
 <!--
 [![switch.png](https://i.postimg.cc/2jqspL07/switch.png)](https://snack.expo.io/@tayse_rosa/switch---react-native)
 -->
