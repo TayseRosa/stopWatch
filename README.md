@@ -32,10 +32,10 @@ O projeto de **CRONÔMETRO** , foi desenvolvido no curso de React Native da B7we
 
 ```bash
 # Clone the repository
- $ git clone [linkProjeto]
+ $ git clone https://github.com/TayseRosa/stopWatch.git
 
 # Enter the directory
- $ cd [nomeProjeto]
+ $ cd stopWatch
 
 # Install dependencies
  $ yarn install
