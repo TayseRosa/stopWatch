@@ -2,9 +2,9 @@
 
 
 <div data-snack-id="@tayse_rosa/stopwatch" data-snack-platform="android" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212121;border:1px solid var(--color-border);border-radius:5px;height:200px;width:30%">
-<p align="center">
+
 ![StopWatch](https://raw.githubusercontent.com/TayseRosa/stopWatch/main/images/stopWhatch.gif)
-</p>
+
 </div>
 <script async src="https://snack.expo.dev/embed.js"></script>
 
